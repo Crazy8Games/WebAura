@@ -1,0 +1,26 @@
+@page
+{
+    title: "Demo Website";
+}
+
+@section header
+{
+    <header>
+        <h1>Welcome to WebAura Demo</h1>
+    </header>
+}
+
+@section content
+{
+    <div class="main-content">
+        <p>This is a simple demo website showcasing the power of WebAura, WebSSAura, and WebScriptAura.</p>
+        <button onclick="changeColor()">Change Color</button>
+    </div>
+}
+
+@section footer
+{
+    <footer>
+        <p>&copy; 2024 WebAura Inc. All rights reserved.</p>
+    </footer>
+}

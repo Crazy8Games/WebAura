@@ -1,0 +1,11 @@
+@script
+{
+    function changeColor() {
+        var body = document.querySelector('body');
+        if (body.style.backgroundColor === 'white' || body.style.backgroundColor === '') {
+            body.style.backgroundColor = '#f8f8f8';
+        } else {
+            body.style.backgroundColor = 'white';
+        }
+    }
+}
