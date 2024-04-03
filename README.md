@@ -2,6 +2,9 @@
 
 This is a simple demo website project showcasing the power of WebAura, WebSSAura, and WebScriptAura.
 
+## Installation
+**command prompt**: npm ihstall -g webaura-package
+
 ## Overview
 
 This demo website consists of three main components:
